@@ -1,0 +1,2 @@
+----- Informe de Simulación de Urgencias -----
+Fecha y hora de inicio: 2023-10-01 09:59:31
